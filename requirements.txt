@@ -1,0 +1,5 @@
+psutil
+ttkthemes
+tkinker
+pywin32
+wmi
